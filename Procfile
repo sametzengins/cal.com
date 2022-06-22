@@ -1,1 +1,1 @@
-web: turbo run start --scope=\"@calcom/web\"
+web: npx turbo run @calcom/web#start
